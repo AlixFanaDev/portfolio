@@ -469,6 +469,11 @@ nav {
   color: var(--ink);
   transition: color 0.2s;
 }
+.exp-tab-company a {
+  color: inherit;
+  text-decoration: none;
+  position: relative;
+}
 .exp-tab-bar {
   height: 1px;
   background: var(--rust);
